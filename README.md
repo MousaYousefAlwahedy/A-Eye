@@ -14,33 +14,7 @@ Faculty of science and Information Technology
 
 
 
-Created By : 							Prof :
-Mousa Alwahedy						Bilal Hawasheen
-Motasem sanouri
 
-Table Contents										Page
-1.0	Project Introduction…………………………………………………… 	       3
-2.0	Problem Statement and Objectives. ………………………………….   4
-3.0	The Role of AI in Eye Disease Diagnosis……………………………..    5
-4.0	Target Eye Conditions…………………………..…………………………..  6
-5.0	Medical Imaging Modalities: Fundus vs OCT………………………... 8
-6.0	Overview of the Proposed System…………………………………….. 10
-7.0	System Architecture………………………………………………………    12
-8.0	Dataset Description and Sources……………………………………… 14
-9.0	Data Preprocessing Pipeline…………………………………….……..   18
-10.0	Fundus Image Classification Model………………………………….   21
-11.0	OCT Image Classification Model………………………………………   26
-12.0	Training and Optimization Techniques……………………………….  28
-13.0	Evaluation Metrics………………………………………………………….  31
-14.0	Model Evaluation and Results………………………………………….. 36
-15.0	Intelligent Medical Advice System……………………………………   40
-16.0	Surgical Recommendation Engine……………………………………   42
-17.0	Model Export and Deployment Strategy…………………………….   43
-18.0	Backend API (Flask Application) ……………………………………..    45
-19.0	User Interface and Experience………………………………………..    47
-20.0	Real-World Scenarios and Applications……………………………    49
-21.0	Challenges and Limitations…………………………………………….    51
-22.0	Future Work and Improvements………………………………………    53
 
 1.0 Project Introduction
 
